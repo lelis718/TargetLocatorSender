@@ -1,0 +1,7 @@
+{
+  "name": "TargetLocatorSender",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
